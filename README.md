@@ -1,4 +1,4 @@
-- 👋 Dia dhaoibh, is mise Jeffrey (nó SIothrún i nGaeilge) Sardna. Is idir eolaí sonraí agus bhitheolaí mé féinig.
+- 👋 Dia dhaoibh, is mise Jeffrey (nó Seathrún i nGaeilge) Sardna. Is idir eolaí sonraí agus bhitheolaí mé féinig.
 - 👀 Táim ag díriú isteach ar meaisínfhoghlaim agus intleacht shaorga, go speisilata ar thapbh eolais na hailse de. Ó am go ham cruthaím ríomhcháir teangaolaíochta chun cúnamh a thabhairt dom 7 mise i mbun cruthú teangan.
 - 🌱 Is ar Leabuithe Graf Eolais atá mo chuid taighde bunaithe. Tá suim mór agam i ríomhchláir Gaelainne agus teicneolaíocht a bhfuil fáil uirthi trí Ghaeilge leis. 
 - 📫 Is féidir dul i dteagmháil liom ag jeffrey [punc] sardina [ag] gmail [punc] com.
